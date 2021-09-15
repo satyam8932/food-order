@@ -595,37 +595,6 @@ header .icons #menu-bars{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries  */
 
 @media (max-width:991px){
@@ -636,6 +605,7 @@ header .icons #menu-bars{
     
     header{
         padding:1rem 2rem;
+        position: absolute;
     }
 
     section{
